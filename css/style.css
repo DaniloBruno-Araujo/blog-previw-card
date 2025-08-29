@@ -63,6 +63,14 @@ body {
     font-size: 16px;
 }
 
+.content h1{
+    transition: color 0.4s ease;
+}
+
+.content h1:hover {
+    color: #F4D04E;
+}
+
 /* LAYOUT DO AUTOR */
 .author {
     display: flex;
@@ -82,3 +90,4 @@ body {
     font-weight: 800;
     font-size: 14px;
 }
+
